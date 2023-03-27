@@ -1,0 +1,12 @@
+export const COUNTRY = "Country";
+export const STATE = "State (txt)";
+export const POPULATION = "Population (txt)";
+export const PRESIDENT = "President (txt)";
+export const CAPITAL = "Capital (txt)";
+export const ADD_PROPERTY = "+ Add Property";
+export const THEORETICAL_PHYSICIST = "Theoretical physicist";
+export const BORN = "Born (txt)";
+export const DIED = "Died (txt)";
+export const EDUCATION = "Education (txt)";
+export const SPOUSE = "Spouse (txt)";
+export const AWARDS = "Award (txt)";
